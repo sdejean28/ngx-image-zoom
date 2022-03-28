@@ -1,3 +1,8 @@
+<a name="0.6.2"></a>
+# 0.6.2
+
+upgrade to angular 11.2
+
 <a name="0.6.1"></a>
 # 0.6.1
 
