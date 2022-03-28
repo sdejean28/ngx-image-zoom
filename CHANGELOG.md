@@ -1,3 +1,9 @@
+<a name="0.6.4"></a>
+# 0.6.4
+
+upgrade to angular 13.3
+upgrade some packages
+
 <a name="0.6.3"></a>
 # 0.6.3
 
